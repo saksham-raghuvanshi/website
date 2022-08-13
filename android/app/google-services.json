@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1082844602276",
+    "firebase_url": "https://best-deals-info-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "best-deals-info",
+    "storage_bucket": "best-deals-info.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082844602276:android:2e6ac0dbce3f489ccc6b31",
+        "android_client_info": {
+          "package_name": "com.mycompany.bestdealsinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082844602276-5nk5vsmmqsmo8k3f9sm774dlcnvad124.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.bestdealsinfo",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1082844602276-janag4oc79fe1ktb7ni8ddo1ic8s46sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4odSptpRooaU8Y7Vsy_1Zki6pWaCyvzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082844602276-janag4oc79fe1ktb7ni8ddo1ic8s46sk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1082844602276-sj3idflfejfms2c1k77ljs7pv9toefm1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.bestdealsinfo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
